@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Chained",
+  "base_artist": "She's",
+  "createdAt": "2026-02-23T04:17:30.349352Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart Chained (feat. Master Peace & No Rome)",
+      "artist": "MISOGI feat. Master Peace & No Rome",
+      "has_synced": true,
+      "path": "select/01_Heart_Chained_(feat._Master_Peace_&_No_Rome)_MISOGI_feat._Master_Peace_&_No_Rome.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heart Chained (feat. Master Peace & No Rome)",
+      "artist": "MISOGI",
+      "has_synced": true,
+      "path": "select/02_Heart_Chained_(feat._Master_Peace_&_No_Rome)_MISOGI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chained",
+      "artist": "machineheart",
+      "has_synced": true,
+      "path": "select/03_Chained_machineheart.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chained",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/04_Chained_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Starcave, Depths and Chained",
+      "artist": "Dødheimsgard",
+      "has_synced": false,
+      "path": "select/05_Starcave,_Depths_and_Chained_Dødheimsgard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chained",
+      "artist": "Doro",
+      "has_synced": false,
+      "path": "select/06_Chained_Doro.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chained To You",
+      "artist": "Savage Garden",
+      "has_synced": true,
+      "path": "select/07_Chained_To_You_Savage_Garden.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chained To You",
+      "artist": "Savage Garden",
+      "has_synced": true,
+      "path": "select/08_Chained_To_You_Savage_Garden.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chained (Final Rescue)",
+      "artist": "Alannah Myles",
+      "has_synced": true,
+      "path": "select/09_Chained_(Final_Rescue)_Alannah_Myles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chained to the Rhythm",
+      "artist": "Katy Perry feat. Lil Yachty",
+      "has_synced": true,
+      "path": "select/10_Chained_to_the_Rhythm_Katy_Perry_feat._Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chained To The Rhythm",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/11_Chained_To_The_Rhythm_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chained",
+      "artist": "Argent",
+      "has_synced": false,
+      "path": "select/12_Chained_Argent.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chained (John Talabot and Pional Blinded Remix)",
+      "artist": "The xx",
+      "has_synced": false,
+      "path": "select/13_Chained_(John_Talabot_and_Pional_Blinded_Remix)_The_xx.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chained (John Talabot & Pional Blinded Remix)",
+      "artist": "The xx",
+      "has_synced": false,
+      "path": "select/14_Chained_(John_Talabot_&_Pional_Blinded_Remix)_The_xx.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chained to the Rhythm",
+      "artist": "Katy Perry feat. Skip Marley",
+      "has_synced": true,
+      "path": "select/15_Chained_to_the_Rhythm_Katy_Perry_feat._Skip_Marley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Chained To The Rhythm (Feat. Skip Marley)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/16_Chained_To_The_Rhythm_(Feat._Skip_Marley)_Katy_Perry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chained",
+      "artist": "SHE'S",
+      "has_synced": false,
+      "path": "select/pl_01_Chained_SHE'S.txt"
+    }
+  ]
+}
